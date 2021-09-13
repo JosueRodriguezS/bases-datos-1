@@ -1,10 +1,14 @@
 **Introducción**
 
+En el siguiente trabajo se pretende crear un pequeño documento que establesca un estandar a utilizar en SQL 
+
 **Justificación**
 
 **Table_of_Contents**
 
-**Entidades**
+[Entidades](#entidades)
+
+**Entidades** <a name="entidades"></a>
 
 Para la definición de tablas y demás Schema Objects es preferible escribir sus identificadores en mayúscula.
 	En vez de escribir **table** se escribe **TABLE**.
@@ -86,7 +90,5 @@ A la hora de usar constraints (restricciones en español), como _not null_, se v
 **Llaves Primarias**
 
 **Llaves Foraneas**
-
-**Indices**
 
 **Bibliografía**
